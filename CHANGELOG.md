@@ -1,5 +1,8 @@
 # Change Log
 
+## [5.0.0](https://github.com/plivo/plivo-node/releases/tag/v4.9.0)(2020-10-07)
+-  Add SDK support for Voice MultiPartyCall APIs and XML
+
 ## [4.11.0](https://github.com/plivo/plivo-node/releases/tag/v4.11.0)(2020-10-30)
 -  Change lookup API endpoint and response.
 
